@@ -1,6 +1,6 @@
 function preload(){
-  w = Math.round(windowWidth/10); //larghezza barre
-  h = 20; //altezza barre
+  w = Math.round(windowWidth/10); //larghezza barra
+  h = 20; //altezza barra
   x = 0; //griglia x
   y = 0; //griglia y
   s = 0; //scorrimento
